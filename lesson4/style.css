@@ -1,0 +1,28 @@
+h3 {
+    color: blue
+}
+#heading-special{
+    color: red;
+    display: none;
+}
+.center{
+    text-align:center;
+}
+*{
+    color: green;
+}
+.center, p {
+    text-align: center;
+    color: orange;
+}
+li {
+    display: inline-block;
+    border: 1px solid green;
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+#span-1{
+    display: block;
+}
