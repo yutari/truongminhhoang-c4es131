@@ -1,9 +1,23 @@
 #div-1{
-    text-align: center;
+    
     color: brown;
     background-color: orangered;
-    border-top: 2px solid brown;
-    border-bottom: 2px solid brown;
-    margin-top: 2px solid brown;
-    margin-bottom: 2px solid brown;
+    border-top: 5px double brown;
+    border-bottom: 5px double brown;
+    padding: 15px 20px 20px 50px;
+   
+}
+#div-2{
+    background-color:aqua;
+    border: 5px solid blue;
+    margin: 30px;
+    margin-left: 10px;
+    margin-right: 320px;
+    padding: 20px 0px 30px 0px;
+}
+#div-3{
+    margin-left: 20px;
+}
+#div-4{
+    margin-left: 50px;
 }
